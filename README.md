@@ -1,5 +1,7 @@
 # converse
 
+简易的匡威商场，有基本商品展示以及购物车的完整功能
+
 ## Project setup
 ```
 npm install
